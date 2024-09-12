@@ -1,1 +1,3 @@
 welcome to My Git Project
+\n## Description
+This project demostrates basic Git and GitHub operations.
